@@ -14,6 +14,11 @@ html,body{
 h1{
     color:red;
     font-size: 50px;
+    background-color: black;
+    font-family: gilroy;
+    font-weight: 400;
+    font-style: italic;
+    text-align: center;
 }
 
 h2{
